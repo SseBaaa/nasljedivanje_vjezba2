@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\Nasljeđivanje_vjezba2\Nasljeđivanje_vjezba2\bin\Debug\Nasljeđivanje_vjezba2.exe.config
+C:\Users\ucenik\source\repos\Nasljeđivanje_vjezba2\Nasljeđivanje_vjezba2\bin\Debug\Nasljeđivanje_vjezba2.exe
+C:\Users\ucenik\source\repos\Nasljeđivanje_vjezba2\Nasljeđivanje_vjezba2\bin\Debug\Nasljeđivanje_vjezba2.pdb
+C:\Users\ucenik\source\repos\Nasljeđivanje_vjezba2\Nasljeđivanje_vjezba2\obj\Debug\Nasljeđivanje_vjezba2.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Nasljeđivanje_vjezba2\Nasljeđivanje_vjezba2\obj\Debug\Nasljeđivanje_vjezba2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Nasljeđivanje_vjezba2\Nasljeđivanje_vjezba2\obj\Debug\Nasljeđivanje_vjezba2.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Nasljeđivanje_vjezba2\Nasljeđivanje_vjezba2\obj\Debug\Nasljeđivanje_vjezba2.exe
+C:\Users\ucenik\source\repos\Nasljeđivanje_vjezba2\Nasljeđivanje_vjezba2\obj\Debug\Nasljeđivanje_vjezba2.pdb
